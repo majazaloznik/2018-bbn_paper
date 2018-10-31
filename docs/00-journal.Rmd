@@ -1,0 +1,22 @@
+---
+title: "Journal--Template"
+output:
+  pdf_document: default
+---
+
+
+This is what my makefile looks like graphically at the minute:
+
+```{r, echo = FALSE, out.width='100%'}
+knitr::include_graphics(paste0(rprojroot::find_root("Makefile"),"/figures/make.png"))
+```
+
+# Wednesday 31.10.2018
+
+1. Initialise repository and set up. 
+
+2. Start `docs/potential-journals.Rmd` with list and info on possible journals to submit to. 
+
+3. Start `docs/literature-review.Rmd` with systematic literature review. This should also be a good source of journals to submit to. 
+
+4. Start Web of science searches, download bibliographies into Mendeley, keep track of searches and number of hits in lit-review file. total 179 files atm. 

@@ -1,0 +1,52 @@
+---
+title: "BBN Vietnam---Literature Review"
+output:
+  pdf_document: 
+    toc: yes
+bibliography: ../../Bibliographies/ABM.bib
+---
+
+# Search Parameters and Process
+
+## Narrow lit-review
+### Search terms
+1. BBN
+
+* BBN
+* "Bayesian belief Network"
+* "Belief net"
+
+2. decision-making
+
+* "Decision-making"
+* "decision making"
+
+3. participatory approach
+
+* participatory
+
+4. Ajzen's theory of planned behaviour
+
+* planned behaviour
+* Ajzen
+
+5. farming
+* farm*
+
+
+### Databases
+
+#### Web of science
+
+search | hits
+----------------------------------------------------------------------------|-------
+`"Bayesian belief net*" and "planned behavio*r"`   | 2
+`"belief net*" and "planned behavio*"`   |  4
+`"belief net*" and "decision*making"`   |  4
+`"belief net*" and "participat*"`   |  85
+`"BBN" AND "planned behavio*"`              | 0
+`"belief net*" AND "Ajzen"`               | 43
+`"planned behavio*" and "Ajzen" AND "farm*`  | 13
+`"belief net*" and "farm"`   | 61
+
+#### Sociological Abstracts

@@ -1,0 +1,108 @@
+---
+title: "Potential journals list"
+output:
+  pdf_document: 
+    toc: yes
+bibliography: ../../Bibliographies/ABM.bib
+---
+
+## Environmental Modelling & Software 
+
+Impact factor 4.177.
+
+Rapid evaluation process, no word limit for research articles.
+
+Not open access - 24 month embargo before enabling public access to our repoistory version.
+
+Peer review, two reviewers, authors provide up to 5 names. 
+
+Article structure predetermined: 
+"Title, Authors, Affiliations and Contact details, Abstract, Keywords, Software and/or data availability,
+Introduction, Material and methods, Results, Discussion, Conclusions, Acknowledgements, References,
+Appendices"
+
+[Detailed author guidance linked **here**](https://www.elsevier.com/journals/environmental-modelling-and-software/1364-8152?generatepdf=true)
+
+Relevant papers:
+
+* @Sun2013
+* review of BBN use @Landuyt2013
+
+### Overview--blurb
+> "publishes contributions, in the form of research articles, reviews and short communications, on recent advances in environmental modelling and/or software."
+
+> "It seeks presentation of:
+
+> * Generic frameworks, techniques and issues which either integrate a range of disciplines and sectors
+or apply across a range
+> * Model development, model evaluation, process identification and applications in diverse sectors
+of the environment (as outlined below) provided they reveal insights and contribute to the store of
+knowledge. Insights can relate to the generality and limitations of the modelling, methods, the model
+application and/or the systems modelled. Insights should be ones that are generalizable in some way
+and are likely to be of interest to those studying other systems and, preferably, other system types.
+> * Issues and methods related to the integrated modeling, assessment and management of
+environmental systems - including relevant policy and institutional analysis, public participation
+principles and methods, decision making"
+
+> "Authors must specify clearly the objectives of their models and/or software, and report on the essential
+steps that were used in their development, normally including the rationale for the type of approach
+selected and substantial testing and evaluation of it - comparisons with alternative approaches and
+methods are encouraged. The purpose of this specification, evaluation and reporting is to convey the
+rigour and credibility of the work and therefore its potential to contribute to knowledge acquisition.
+To this latter end, authors are expected to briefly review and cite the historical progress made for
+their problem and clearly show how their work adds value to the literature."
+
+>"Authors are invited to submit relevant contributions in the following areas:
+* Integrated assessment and management of systems (river basins, regions etc.) for enhancing
+sustainability outcomes - including linked socioeconomic and biophysical models that may be
+developed with stakeholders for understanding systems, communication and learning, and improving
+system outcomes.
+*  Artificial Intelligence (AI) techniques and systems, such as knowledge-based systems / expert
+systems, case-based reasoning systems, data mining, multi-agent systems, Bayesian networks,
+artificial neural networks, fuzzy logic, or knowledge elicitation and knowledge acquisition methods.
+* Decision support systems and environmental information systems- implementation and use of
+environmental data and models to support all phases and aspects of decision making, in particular
+supporting group and participatory decision making processes. Intelligent Environmental Decision
+Support Systems can include qualitative, quantitative, mathematical, statistical, AI models and metamodels."
+
+> "These methodological developments should be illustrated with applications in the environmental fields,
+e.g.: "
+> "* Resource management including water, land, biological, transport systems
+> * Pollution of different media such as air, water, soil, noise, radiation, as well as multimedia problems"
+
+## Agricultural Systems
+
+Elsevier 
+
+Impact factor 3.004
+
+relevant papers: 
+
+* *A Bayesian network model to explore practice change by smallholder rice farmers in Lao PDR* @moglia2018
+
+### Overview---blurb
+
+> "Agricultural Systems is an international journal that deals with interactions - among the components of agricultural systems, among hierarchical levels of agricultural systems, between agricultural and other land use systems, and between agricultural systems and their natural, social and economic environments. Manuscripts submitted to Agricultural Systems generally should include both of the following:
+
+> * Substantive natural science content (especially farm- or landscape-level biology or ecology, sometimes combined with social sciences), and
+> * Substantive analysis and discussion of the interactions within or among agricultural systems components and other systems.
+
+> Preference is given to manuscripts that address whole-farm and landscape level issues, via integration of conceptual, empirical and dynamic modelling approaches.
+
+> The scope includes the development and application of systems analysis methodologies in the following areas:
+
+> * Systems approaches in the sustainable intensification of agriculture; pathways for sustainable intensification; crop-livestock integration; farm-level resource allocation; quantification of benefits and trade-offs at farm to landscape levels; integrative, participatory and dynamic modelling approaches for qualitative and quantitative assessments of agricultural systems and decision making;
+> * The interactions between agricultural and non-agricultural landscapes; the multiple services of agricultural systems; food security and the environment;
+> * Global change and adaptation science; transformational adaptations as driven by changes in climate, policy, values and attitudes influencing the design of farming systems;
+> * Development and application of farming systems design tools and methods for impact, scenario and case study analysis; managing the complexities of dynamic agricultural systems; innovation systems and multi stakeholder arrangements that support or promote change and (or) inform policy decisions."
+
+## Ecology and Society
+
+Open access, creative commons licence - publication fee $956.. 
+
+Our turn-around time (submission to publication) averages around 350 days.
+
+### Outline--Blurb
+
+> "Content of the journal ranges from the applied to the theoretical. In general, papers should cover topics relating to the ecological, political, and social foundations for sustainable social-ecological systems. Specifically, the journal publishes articles that present research findings on the following issues: (a) the management, stewardship and sustainable use of ecological systems, resources and biological diversity at all levels, (b) the role natural systems play in social and political systems and conversely, the effect of social, economic and political institutions on ecological systems and services, and (c) the means by which we can develop and sustain desired ecological, social and political states."
+## References
