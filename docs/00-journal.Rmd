@@ -20,3 +20,11 @@ knitr::include_graphics(paste0(rprojroot::find_root("Makefile"),"/figures/make.p
 3. Start `docs/literature-review.Rmd` with systematic literature review. This should also be a good source of journals to submit to. 
 
 4. Start Web of science searches, download bibliographies into Mendeley, keep track of searches and number of hits in lit-review file. total 179 files atm. 
+
+# Thursday 1.11.2018
+
+1. Go through the rest of the data bases - except for google scholar. 
+
+2. Export 994 articles with abstracts to Mendeley
+
+3. check for duplicates, remove, remove also weird things without abstracts, anonymous weird entries that are clearly not relevant papers etc. 

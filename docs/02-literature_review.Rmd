@@ -37,7 +37,8 @@ bibliography: ../../Bibliographies/ABM.bib
 ### Databases
 
 #### Web of science
-
+ - a total of 179 new papers 
+ 
 search | hits
 ----------------------------------------------------------------------------|-------
 `"Bayesian belief net*" and "planned behavio*r"`   | 2
@@ -50,3 +51,144 @@ search | hits
 `"belief net*" and "farm"`   | 61
 
 #### Sociological Abstracts
+
+- a total of 54 new papers
+
+search | hits
+----------------------------------------------------------------------------|-------
+`"belief net*" and "planned behavio*"`   |  0
+`"belief net*" and "decision*making"`   |  1
+`"belief net*" and "participat*"`   |  12
+`"BBN" AND "planned behavio*"`              | 0
+`"BBN" AND "Ajzen"`              | 0
+`"belief net*" AND "Ajzen"`               | 1
+`"planned behavio*" and "Ajzen" AND "farm*`  | 41
+`"belief net*" and "farm"`   | 2
+
+#### Applied Social Sciences Index & Abstracts
+
+- total of 49 new articles, 
+
+search | hits
+----------------------------------------------------------------------------|-------
+`"belief net*" and "planned behavio*"`   |  0
+`"belief net*" and "decision*making"`   |  0
+`"belief net*" and "participat*"`   |  12
+`"BBN" AND "planned behavio*"`              | 1
+`"BBN" AND "Ajzen"`              | 0
+`"belief net*" AND "Ajzen"`               | 0
+`"planned behavio*" and "Ajzen" AND "farm*`  | 38
+`"belief net*" and "farm"`   | 0
+`"BBN*" and "farm"`   | 0
+
+
+
+#### Social Services Abstracts
+
+- no new articles
+
+search | hits
+----------------------------------------------------------------------------|-------
+`"belief net*" and "planned behavio*"`   |  0
+`"belief net*" and "decision*making"`   |  0
+`"belief net*" and "participat*"`   |  11
+`"BBN" AND "planned behavio*"`              | 1
+`"BBN" AND "Ajzen"`              | 0
+`"belief net*" AND "Ajzen"`               | 0
+`"planned behavio*" and "Ajzen" AND "farm*`  | 38
+`"belief net*" and "farm"`   | 0
+`"BBN*" and "farm"`   | 0
+
+
+
+#### Proquest—Social Science Premium Collection 
+
+- 272 new articles
+
+search | hits
+----------------------------------------------------------------------------|-------
+`"belief net*" and "planned behavio*"`   |  5
+`"belief net*" and "decision*making"`   |  19
+`"belief net*" and "participat*"`   |  189
+`"BBN" AND "planned behavio*"`              | 3
+`"BBN" AND "Ajzen"`              | 1
+`"belief net*" AND "Ajzen"`               | 7
+`"planned behavio*" and "Ajzen" AND "farm*`  | 453
+`"belief net*" and "farm"`   | 51
+`"BBN*" and "farm"`   | 97
+
+
+
+#### International Bibliography of the Social Sciences—(IBSS)
+
+- 170 new articles
+
+search | hits
+----------------------------------------------------------------------------|-------
+`"belief net*" and "planned behavio*"`   |  3
+`"belief net*" and "decision*making"`   |  6
+`"belief net*" and "participat*"`   |  49
+`"BBN" AND "planned behavio*"`              | 3
+`"BBN" AND "Ajzen"`              | 1
+`"belief net*" AND "Ajzen"`               | 5
+`"planned behavio*" and "Ajzen" AND "farm*`  | 111
+`"belief net*" and "farm"`   | 11
+`"BBN*" and "farm"`   | 7
+
+
+
+#### Social Science Research Network
+ 
+- full text search - no new papers
+
+search | hits
+----------------------------------------------------------------------------|-------
+`"belief net*" and "planned behavio*"`   |  0
+`"belief net*" and "decision*making"`   |  0
+`"belief net*" and "participat*"`   |  0
+`"BBN" AND "planned behavio*"`              | 0
+`"BBN" AND "Ajzen"`              | 0
+`"belief net*" AND "Ajzen"`               |0
+`"planned behavio*" and "Ajzen" AND "farm*`  | 0 
+`"belief net*" and "farm"`   | 0
+`"BBN*" and "farm"`   |0
+
+
+#### Research Papers in Economics
+
+- 1 new article
+
+search | hits
+----------------------------------------------------------------------------|-------
+`"belief net*" and "planned behavio*"`   |  0
+`"belief net*" and "decision*making"`   |  0
+`"belief net*" and "participat*"`   |  0
+`"BBN" AND "planned behavio*"`              | 0
+`"BBN" AND "Ajzen"`              | 0
+`"belief net*" AND "Ajzen"`               |0
+`"planned behavio*" and "Ajzen" AND "farm*`  | 0 
+`"belief net*" and "farm"`   | 0
+`"BBN*" and "farm"`   |1
+
+
+
+#### JSTOR
+ (odd, lots of empty hits, let's not do this again)
+ 
+ search | hits
+----------------------------------------------------------------------------|-------
+`"belief net*" and "planned behavio*"`   |  0
+`"belief net*" and "decision*making"`   |  0
+`"belief net*" and "participat*"`   |  0
+`"BBN" AND "planned behavio*"`              | 0
+`"BBN" AND "Ajzen"`              | 0
+`"belief net*" AND "Ajzen"`               |0
+`"planned behavio*" and "Ajzen" AND "farm*`  | 0 
+`"belief net*" and "farm"`   | 0
+`"BBN*" and "farm"`   | 72
+
+
+
+
+D.12 National Bureau of Economic Research . . . . . . . . 9
+D.13 Google Scholar . . . . . . . .
