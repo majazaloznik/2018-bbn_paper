@@ -33,6 +33,12 @@ bibliography: ../../Bibliographies/ABM.bib
 5. farming
 * farm*
 
+### clean up
+
+1. Remove obvious misses, duplicates, non-English entries. Left with 902 entries, saved as `data/dictionaries/01-literature_haul.bib`
+
+2. First trawl by title and skim abstract to remove irrelevant papers. 
+
 
 ### Databases
 

@@ -28,3 +28,9 @@ knitr::include_graphics(paste0(rprojroot::find_root("Makefile"),"/figures/make.p
 2. Export 994 articles with abstracts to Mendeley
 
 3. check for duplicates, remove, remove also weird things without abstracts, anonymous weird entries that are clearly not relevant papers etc. 
+
+4. Left with 902 entries, saved as `data/dictionaries/01-literature_haul.bib`
+
+# Friday 2.11.2018
+
+1. Second trawl through, title and skim abstract to remove irrelevant papers. Got to the letter "P". 
