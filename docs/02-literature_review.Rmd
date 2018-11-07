@@ -55,6 +55,9 @@ bibliography: ../../Bibliographies/ABM.bib
 * motivation
 * technical - about mathematics or programming behind sth (bbn)
 * knowledge elicitation - sources and ways of merging them 
+* diagnostic
+* survey
+
 ### Databases
 
 #### Web of science

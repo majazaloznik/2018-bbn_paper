@@ -39,6 +39,10 @@ knitr::include_graphics(paste0(rprojroot::find_root("Makefile"),"/figures/make.p
 
 2. Finished first trawl through, end up with 159 papers. Saved as `data/dictionaries/02-literature_trimmed.bib`
 
-# Tuesday 5.11.2018
+# Tuesday 6.11.2018
 
-1. second trawl - read abstracts, tag. 
+1. second trawl - read abstracts, tag. Keep lsiting relevant potential journals as well. 
+
+# Wednesday 7.11.2018
+
+1. two thirds through second trawl

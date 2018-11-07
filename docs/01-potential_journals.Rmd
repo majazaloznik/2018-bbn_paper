@@ -109,5 +109,18 @@ Our turn-around time (submission to publication) averages around 350 days.
 
 ## Environment, Development and Sustainability
 
+
+## Environmental Science and Technology
+
+* relevant paper: BBNs Improve Causal Envirnomental Assessments for Evidence Based Policy @Carriger2016
+
 * relevant papers: ethiopian farmers adopting soil conservation techniques.  @Abi2018
+
+## Human Ecology
+
+* relevant paper: @Fleskens2010
+
+
+
+
 ## References
